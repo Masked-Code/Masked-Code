@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deadlock Tournament Website**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** && **GO**
 
 - 👯 I’m looking to collaborate on **Deadlock Tournament Statistics**
 
